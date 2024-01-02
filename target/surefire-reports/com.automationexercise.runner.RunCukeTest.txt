@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.automationexercise.runner.RunCukeTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 58.40 s -- in com.automationexercise.runner.RunCukeTest

@@ -1,0 +1,3 @@
+com\automationexercise\steps\register.class
+com\automationexercise\steps\Hooks.class
+com\automationexercise\runner\RunCukeTest.class
